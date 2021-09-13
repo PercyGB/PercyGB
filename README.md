@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 <!--
 **PercyGB/PercyGB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a manual QA and I'm currently learning Java QA Automation.
+This is my GitHub account. Welcome! If you'll find something useful for you - please use it 😄.
+
+You can contact me via LinkedIn - https://www.linkedin.com/in/liana-kuznetsova-051b3a81/
